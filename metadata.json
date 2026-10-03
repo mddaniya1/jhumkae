@@ -1,0 +1,6 @@
+{
+  "name": "Jhumky | Handcrafted Jewellery",
+  "description": "A soft, modern, and elegant luxury jewellery e-commerce storefront for Jhumky, featuring handcrafted collections, rings, bangles, and bridal jhumkas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
